@@ -10,9 +10,9 @@ This project is a web application for managing lecturer information, built using
 - Filter by Education Level: Filter the lecturer list by selected education level to narrow down the results.
 
 ## Technologies Used
-Frontend: ReactJS, Material-UI
-Backend: Spring Boot, Maven
-Database: MySQL
+- Frontend: ReactJS, Material-UI
+- Backend: Spring Boot, Maven
+- Database: MySQL
 
 ## Installation Steps
 1. Clone the repository
