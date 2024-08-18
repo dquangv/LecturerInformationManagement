@@ -11,7 +11,7 @@ This project is a web application for managing lecturer information, built using
 
 ## Technologies Used
 - Frontend: ReactJS, Material-UI
-- Backend: Spring Boot, Maven
+- Backend: Spring Boot, Maven, API
 - Database: MySQL
 
 ## Installation Steps
