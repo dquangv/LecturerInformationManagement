@@ -24,15 +24,13 @@ git clone https://github.com/your-username/lecturer-information-management.git
 2. Navigate to the frontend directory and install dependencies
 
 ```
-cd lecturer-information-management/frontend
-npm install
+cd lecturer-information-management/frontend/lecturerfrontend
 ```
 
 3. Navigate to the backend directory and build the project
 
 ```
 cd ../backend
-mvn clean install
 ```
 
 4. Configure the database
@@ -41,7 +39,7 @@ mvn clean install
 6. Run the frontend development server
 
 ```
-cd ../frontend
+cd lecturer-information-management/frontend/lecturerfrontend
 npm start
 ```
 
